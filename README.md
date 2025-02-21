@@ -85,4 +85,3 @@ to discuss what you would like to change.
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
 
-**Email**: mohammadaqdas212@gmail.com
